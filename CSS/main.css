@@ -74,7 +74,7 @@ img.rounded-sm {
 }
 
 .sidebar-text {
-    font-size: 9px;
+    font-size: 11px;
     color: white;
     padding: 10px;
 }
@@ -183,4 +183,8 @@ button {
     padding: 15px;
     border-radius: 10px;
     font-size: 18px;
+}
+
+.row {
+    margin: 5px;
 }
